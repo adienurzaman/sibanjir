@@ -1,0 +1,56 @@
+[12-Feb-2020 14:52:35 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/sibanjir/save.php on line 6
+[12-Feb-2020 14:52:35 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/sibanjir/save.php on line 6
+[12-Feb-2020 14:52:35 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/save.php on line 17
+[12-Feb-2020 14:52:35 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/save.php on line 17
+[12-Feb-2020 14:53:32 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/sibanjir/save.php on line 6
+[12-Feb-2020 14:53:32 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/sibanjir/save.php on line 6
+[12-Feb-2020 14:53:32 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/save.php on line 17
+[12-Feb-2020 14:53:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/save.php on line 17
+[12-Feb-2020 14:54:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/senr3879/public_html/sibanjir/save.php on line 6
+[12-Feb-2020 14:55:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/senr3879/public_html/sibanjir/save.php on line 6
+[12-Feb-2020 14:58:27 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/save.php on line 14
+[12-Feb-2020 14:58:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/save.php on line 14
+[12-Feb-2020 15:00:39 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/save.php on line 14
+[12-Feb-2020 15:00:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/save.php on line 14
+[12-Feb-2020 15:10:14 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:10:14 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:10:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:10:25 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:10:25 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:10:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:14:27 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:14:36 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:14:36 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:14:38 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:14:43 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:14:43 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:14:44 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:14:44 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:14:44 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:14:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:15:25 Asia/Jakarta] PHP Notice:  Undefined variable: conect in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:15:25 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:15:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:15:30 Asia/Jakarta] PHP Notice:  Undefined variable: conect in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:15:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:15:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12
+[12-Feb-2020 15:15:36 Asia/Jakarta] PHP Notice:  Undefined variable: conect in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:15:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 8
+[12-Feb-2020 15:15:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/sibanjir/tampil.php on line 12

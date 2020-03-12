@@ -1,0 +1,48 @@
+[12-Feb-2020 11:30:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:30:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:30:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:31:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:31:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:31:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:31:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:31:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:31:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:31:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:31:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
+[12-Feb-2020 11:32:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/sibanjir/pages/dataketinggian/query_table.php on line 20
